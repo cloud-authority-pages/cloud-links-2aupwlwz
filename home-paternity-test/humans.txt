@@ -1,0 +1,9 @@
+/* TEAM */
+Company: US Diagnostics Center
+Website: https://usdiagnosticscenter.com/
+Location: STE C Franklin, Ohio 
+
+//* SITE */
+Published: 2026-06-27
+Language: English
+Doctype: HTML5
